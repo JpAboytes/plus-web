@@ -1,0 +1,11 @@
+/node_modules
+/.next
+/out
+/build
+/_old_dc
+.DS_Store
+*.pem
+npm-debug.log*
+.env*.local
+.vercel
+next-env.d.ts
